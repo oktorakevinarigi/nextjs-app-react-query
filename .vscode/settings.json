@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "eslint.workingDirectories": [ { "pattern": "./apps/*/" }, { "pattern": "./packages/*/" } ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.fixAll.eslint": false
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
